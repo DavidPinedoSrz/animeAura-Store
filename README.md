@@ -26,3 +26,23 @@ La funcionalidad principal se mantiene igual, pero con una base de código más 
 | Tipado               |           Dinámico            |     Estático (TypeScript) |
 | Estructura de código |      Archivos separados       |   Componentes organizados |
 | Bundler              |     Ninguno (script tags)     |                      Vite |
+
+## 🚀 Cómo ejecutar este proyecto
+
+1. Clona el repositorio:
+
+```
+git clone https://github.com/DavidPinedoSrz/animeAura-Store.git
+```
+
+2. Instala las dependencias:
+
+```
+npm install
+```
+
+3. Ejecuta el servidor de desarrollo:
+
+```
+npm run dev
+```
