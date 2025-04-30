@@ -2,7 +2,7 @@
 
 ## 📌 Descripción
 
-Este proyecto es una versión renovada del original [enlace al proyecto original] desarrollado con Vanilla JavaScript. He decidido modernizar el código implementando:
+Este proyecto es una versión renovada del original [Desafío FrontEnd #24](https://www.youtube.com/live/yDHjxAg5SK8?si=gv0HzPDv8CSzBfXs) desarrollado con Vanilla JavaScript. He decidido modernizar el código implementando:
 
 - **TypeScript:** Para añadir tipado estático y mejorar la mantenibilidad del código.
 - **React:** Para aprovechar el paradigma de componentes y el estado gestionado.
